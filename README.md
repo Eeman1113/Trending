@@ -1,0 +1,2 @@
+# Trending
+Market trend analyser
